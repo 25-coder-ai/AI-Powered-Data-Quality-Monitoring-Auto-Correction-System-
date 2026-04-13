@@ -24,5 +24,4 @@ An AI-powered system to analyze, monitor, and automatically improve dataset qual
 
 ## ▶️ Run Locally
 ```bash
-pip install -r requirements.txt
 streamlit run app.py
